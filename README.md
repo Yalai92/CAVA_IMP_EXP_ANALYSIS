@@ -9,23 +9,23 @@ This repository focuses on both the analysis and clustering of the global sparkl
 
 * 📊 | 01. **Data Analysis**
   - *Part 1*: **Cava - monthly analysis (2017-2024)**
-    - Description: Data cleaning, analysis, & visualization of the monthly evolution of Cava exports over the period 2017-2024. A temporal breakdown by global, region and country has been applied for a more detailed analysis of export trends on a global scale
+    - *Description*: Data cleaning, analysis, & visualization of the monthly evolution of Cava exports over the period 2017-2024. A temporal breakdown by global, region and country has been applied for a more detailed analysis of export trends on a global scale
       
    - *Part 2*: **Sparkling wine - monthly analysis (2020-2024)**
-    - Description: Data cleaning, analysis, & visualization of the monthly evolution of **Cava, Prosecco, and Champagne** exports over the period 2020-2024. A temporal breakdown by global, region and country has been applied for a more detailed analysis of export trends on a global scale.
+      - *Description*: Data cleaning, analysis, & visualization of the monthly evolution of **Cava, Prosecco, and Champagne** exports over the period 2020-2024. A temporal breakdown by global, region and country has been applied for a more detailed analysis of export trends on a global scale.
 
   - *Part 3*: **Sparkling wine - yearly analysis (2020-2024)**
-    - Description: Data cleaning, analysis, & visualization of the yearly evolution of **Cava, Prosecco, and Champagne** exports and consumption over the period 2020-2024. A temporal breakdown by global, region and country has been applied for a more detailed analysis of export trends on a global scale.
+    - *Description*: Data cleaning, analysis, & visualization of the yearly evolution of **Cava, Prosecco, and Champagne** exports and consumption over the period 2020-2024. A temporal breakdown by global, region and country has been applied for a more detailed analysis of export trends on a global scale.
 
   - Folder: **DA**
 
 * 🔬 | 02. **Preprocessing & Clustering**
-  - Title: **Predictive Analysis and Trends in Global Alfalfa Demand (2024-2029)**
-  - Description: Unsupervised Machine Learning within to cluster countries based on trends from 2020 to 2024. The first model focuses on sparkling wine export data, while the second integrates both trade and socio-economic indicators to reveal meaningful country groupings.
+  - Title: **Country clustering based on sparkling wine comsuption**
+  - *Description*: Unsupervised Machine Learning within to cluster countries based on trends from 2020 to 2024. The first model focuses on sparkling wine export data, while the second integrates both trade and socio-economic indicators to reveal meaningful country groupings.
     
   - Folder: **DS**
 
 ## Tools
 * 📓 | Notebooks:     **Google Colab**
-* 📊 | Visualization: **PowerBI & Tableau Public**
-* 🐍 | Python:        **Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn**
+* 📊 | Visualization: **Tableau Public**
+* 🐍 | Python:        **Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Sklearn (StandardScaler, PCA, KMeans)**
