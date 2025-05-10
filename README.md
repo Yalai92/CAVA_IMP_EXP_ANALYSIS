@@ -8,13 +8,21 @@ This repository focuses on both the analysis and clustering of the global sparkl
 ## Sub-Projects:
 
 * 📊 | 01. **Data Analysis**
-  - Title: **Evolution and Trends of Spanish and the Four Leading Alfalfa and Pellet Exporters (2003-2023)**
-  - Description: Data cleaning, analysis, & visualization of global alfalfa and pellet imports, as well as the evolution and trends of Spanish and the four main alfalfa and pellet exporters during the period 2003-2023.
+  - *Part 1*: **Cava - monthly analysis (2017-2024)**
+    - Description: Data cleaning, analysis, & visualization of the monthly evolution of Cava exports over the period 2017-2024. A temporal breakdown by global, region and country has been applied for a more detailed analysis of export trends on a global scale
+      
+   - *Part 2*: **Sparkling wine - monthly analysis (2020-2024)**
+    - Description: Data cleaning, analysis, & visualization of the monthly evolution of **Cava, Prosecco, and Champagne** exports over the period 2020-2024. A temporal breakdown by global, region and country has been applied for a more detailed analysis of export trends on a global scale.
+
+  - *Part 3*: **Sparkling wine - yearly analysis (2020-2024)**
+    - Description: Data cleaning, analysis, & visualization of the yearly evolution of **Cava, Prosecco, and Champagne** exports and consumption over the period 2020-2024. A temporal breakdown by global, region and country has been applied for a more detailed analysis of export trends on a global scale.
+
   - Folder: **DA**
 
 * 🔬 | 02. **Preprocessing & Clustering**
   - Title: **Predictive Analysis and Trends in Global Alfalfa Demand (2024-2029)**
-  - Description: Predictive analysis of the global alfalfa demand for the 2024-2029 period, using data science algorithms techniques,. It analyzes main trends and key factors influencing the market, willing to provide valuable insights for stakeholders in the alfalfa industry.
+  - Description: Unsupervised Machine Learning within to cluster countries based on trends from 2020 to 2024. The first model focuses on sparkling wine export data, while the second integrates both trade and socio-economic indicators to reveal meaningful country groupings.
+    
   - Folder: **DS**
 
 ## Tools
