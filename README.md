@@ -4,7 +4,7 @@ This repository focuses on both the analysis and clustering of the global sparkl
   - URL **ES**: 📝 | [Portfolio article](https://aleixsanchez.super.site/featured-projects/the-spanish-alfalfa-sector-export-analysis](https://aleixsanchez.super.site/portfolio-espaol/in-process-tendencias-y-anlisis-de-exportacin-de-cava-champn-y-prosecco-panorama-global-2017-2024))
 
   - URL **EN**: 📊 | [Tableau Dashboard](https://aleixsanchez.super.site/featured-projects/the-spanish-alfalfa-sector-export-analysis](https://aleixsanchez.super.site/portfolio-espaol/in-process-tendencias-y-anlisis-de-exportacin-de-cava-champn-y-prosecco-panorama-global-2017-2024)](https://public.tableau.com/app/profile/aleix.sanchez/viz/DA_001_CAVA/MAIN))
-  - URL **EN**: 👨🏻‍💻 | [Code process explanation]([https://aleixsanchez.super.site/featured-projects/the-spanish-alfalfa-sector-export-analysis](https://aleixsanchez.super.site/portfolio-espaol/in-process-tendencias-y-anlisis-de-exportacin-de-cava-champn-y-prosecco-panorama-global-2017-2024)](https://public.tableau.com/app/profile/aleix.sanchez/viz/DA_001_CAVA/MAIN)](https://www.notion.so/aleixsanchez/DATA-CLEANING-PREPROCESSING-1a26a260454a80dcb900f63296bcafe6))
+  - URL **EN**: 👨🏻‍💻 | [Code process explanation](https://www.notion.so/aleixsanchez/DATA-CLEANING-PREPROCESSING-1a26a260454a80dcb900f63296bcafe6)
 
 
 ## Sub-Projects:
